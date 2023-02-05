@@ -17,7 +17,7 @@ namespace TestScan
 
             List<DirectoryInfo> roots = new List<DirectoryInfo> 
             { 
-                new DirectoryInfo(@"C:\GitHub\shadow"),
+                new DirectoryInfo(@"C:\GitHub"),
                 new DirectoryInfo(@"C:\Users\rob") 
             };
 
